@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Choudhuryprasad
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Python,block-chain
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me 9348972756
 
