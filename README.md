@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Choudhuryprasad
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning Python,block-chain
-- 💞️ I’m looking to collaborate on web development
+- 👀 I’m interested in AIML based web developement
+- 🌱 I’m currently android developement
+- 💞️ I’m looking to collaborate on python developement and AIML field
 - 📫 How to reach me 9348972756
 
 <!---
